@@ -3,6 +3,7 @@
 		OSMesaColorClamp;
 		OSMesaCreateContext;
 		OSMesaCreateContextExt;
+		OSMesaCreateContextAttribs;		
 		OSMesaDestroyContext;
 		OSMesaGetColorBuffer;
 		OSMesaGetCurrentContext;
